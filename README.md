@@ -71,5 +71,5 @@ The **Budget Tracking System** is a user-friendly mobile application designed to
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/iamJABASTIN/Budget-Tracking-System.git
+   git clone https://github.com/Dinesh19-S/Budget-Tracking-app.git
    cd Budget-Tracking-System
